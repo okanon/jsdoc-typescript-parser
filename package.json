@@ -1,0 +1,14 @@
+{
+    "name": "jsdoc-typescript",
+    "version": "1.0.0",
+    "description": "JSDoc TypeScript",
+    "scripts": {
+        "build": "tsc"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^16.18.11",
+        "chai": "^4.3.4",
+        "typescript": "^4.9.4"
+    }
+}
